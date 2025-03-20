@@ -5,4 +5,7 @@ flask
 gunicorn  
 joblib  
 werkzeug  
-flask-cors  
+flask-cors 
+tensorflow
+streamlit
+
